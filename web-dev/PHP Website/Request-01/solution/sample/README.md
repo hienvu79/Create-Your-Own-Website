@@ -1,10 +1,10 @@
 ## Dev environments
-Docker Engine 19.03
-Docker desktop for MacOS
-Docker Image: php:7.2-apache
+- Docker Engine 19.03
+- Docker desktop for MacOS
+- Docker Image: php:7.2-apache
 
 ## Setup
-Install Docker desktop https://www.docker.com/get-started
+- Install Docker desktop https://www.docker.com/get-started
 
 
 ## Build & Run 
